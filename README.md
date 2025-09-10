@@ -82,8 +82,6 @@ For professional applications, ensure compliance with relevant **data privacy, g
 
 ## ✅ Final Note
 The **German Credit Data Dashboard** is more than a visualization—it is a **strategic decision-support tool**. By combining descriptive statistics with interactive analytics, it provides stakeholders with **clarity, transparency, and actionable recommendations** in the credit risk domain.  
-This project reflects the growing importance of **Business Intelligence (BI) in financial services**, where **data-driven insights lead to smarter, safer, and more profitable lending strategies**.  
+This project reflects the growing importance of **Business Intelligence (BI) in financial services**, where **data-driven insights lead to smarter, safer, and more profitable lending strategies**.
 
 
-## 📷 Dashboard Screenshots
-*(Add your Power BI dashboard screenshots here once available)* 
